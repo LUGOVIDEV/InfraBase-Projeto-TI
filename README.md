@@ -1,4 +1,4 @@
-# 📘 Projeto INFRABASE
+1. Projeto INFRABASE
 
 O **INFRABASE** é um projeto completo para formação prática em TI, integrando os pilares fundamentais da área: infraestrutura, redes, sistemas operacionais, segurança, banco de dados e análise de dados.
 
@@ -12,7 +12,7 @@ Este projeto simula o ambiente tecnológico de uma empresa real, incluindo:
 
 ---
 
-## 🎯 Objetivo
+2. Objetivo
 Criar um ecossistema de TI completo que permita:
 - Entender o funcionamento de uma empresa por trás da tecnologia  
 - Administrar sistemas, usuários e permissões  
@@ -28,7 +28,7 @@ Este projeto serve como base para carreira em:
 
 ---
 
-## 🧱 Pilares do Projeto
+3. Pilares do Projeto
 
 1. **Fundamentos de TI**  
 2. **Infraestrutura e Sistemas Operacionais**  
